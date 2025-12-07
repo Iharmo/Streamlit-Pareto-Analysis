@@ -29,4 +29,5 @@ venv/
 *.csv
 *.xlsx
 test_pareto_5gb.csv
+.vscode
 
